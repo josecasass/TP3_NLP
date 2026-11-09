@@ -1,0 +1,4 @@
+beto_finetuned/
+beto_finetuned_2ep/
+beto_finetuned_lr3/
+*.npy
